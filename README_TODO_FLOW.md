@@ -223,7 +223,7 @@ Formulario → todoController::search() → todoModel::search()
 
 ¡El sistema está listo para usar! 🎉
 ----------------------------------------------------------------------------------------------
-Link repositorio de GitHub: `http://localhost/proyectocerv-main/todo`
+Link repositorio de GitHub: `https://github.com/Victoria-ponce/ProyectoLaboratorio2`
 ----------------------------------------------------------------------------------------------
 
 ## Implementacion de subtareas
